@@ -40,7 +40,7 @@ public class DormManagementSystem {
           searchStudent();
           break;
         case 4:
-          System.out.println("Exiting the system...");
+          System.out.println("Exiting...");
           break;
         default:
           System.out.println("Invalid choice. Try again.");
